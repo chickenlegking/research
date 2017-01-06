@@ -1,0 +1,20 @@
+#map {
+	position: relative;
+}
+
+#toolbar-trigger {
+	position: absolute;
+	top: 10px;
+	right: 10px;
+	z-index: 10;
+}
+
+.dropdown-submenu {
+    position: relative;
+}
+
+.dropdown-submenu .dropdown-menu {
+    top: 0;
+    left: -80%;
+    margin-top: -1px;
+}
