@@ -1,0 +1,9 @@
+{
+  "name": "socialmediabuzz",
+  "version": "0.0.0",
+  "description": "socialmediabuzz",
+  "main": "server.js",
+  "author": {
+    "name": "Zoff Zeng"
+  }
+}
